@@ -26,6 +26,29 @@ class Desafio {
     }
 }
 
+class Medalha {
+    constructor(nome, descricao) {
+        this.nome = nome;
+        this.descricao = descricao;
+    }
+}
+
+class Feedback {
+    constructor(usuario, desafio, comentario){
+        this.usuario = usuario;
+        this.desafio = desafio;
+        this.comentario = comentario;
+    }
+}
+
+class Aviso {
+    constructor(titulo, mensagem, data) {
+        this.titulo = titulo;
+        this.mensagem = mensagem;
+        this.data = data;
+    }
+}
+
 class Aplicativo {
     constructor() {
         this.usuarios = [];
@@ -47,6 +70,22 @@ class Aplicativo {
     iniciarDesafio(usuario, desafio) {
         usuario.completarDesafio(desafio);
         usuario.ganharPontos(desafio.pontos);
+    }
+}
+
+class Terapeuta {
+    constructor(nome, especialidade, contato) {
+        this.nome = nome;
+        this.especialidade = especialidade;
+        this.contato = {telefone: contato.telefone, email: contato.email};
+    }
+}
+
+class RelatorioProgresso {
+    constructor(usuario, data, pontuacao) {
+        this.usuario = usuario;
+        this.data = data;
+        this.pontuacao = pontuacao;
     }
 }
 
