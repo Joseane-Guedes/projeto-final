@@ -1,4 +1,4 @@
-const Aplicativo = require("./aplicativo.js");
+const Aplicativo = require("../aplicativo/aplicativo.js");
 
 class Usuario {
     constructor(nome) {
@@ -17,6 +17,7 @@ class Usuario {
 
     completarDesafio(desafio) {
         this.desafiosConcluidos.push(desafio);
+        this.ganharPontos(desafio.pontos)
         // Lógica para atualizar pontos e verificar conquistas
     }
 
