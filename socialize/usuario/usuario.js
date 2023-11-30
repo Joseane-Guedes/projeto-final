@@ -37,10 +37,12 @@ class Usuario {
         let desafiosSelecionados = [];
 
         for(let index = 0; index < quantidade; index++) {
+            if(desafiosPossiveis.length === 0) break;
             const indexAleatorio = Math.floor(Math.random() * desafiosPossiveis.length);
             const desafioSelecionado = desafiosPossiveis[indexAleatorio];
             desafiosSelecionados.push(desafioSelecionado);
             desafiosPossiveis.splice(indexAleatorio, 1);
+            
         }
 
         return desafiosSelecionados;
