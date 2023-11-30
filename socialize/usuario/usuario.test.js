@@ -7,7 +7,7 @@ describe("Testes para a classe Usuario", () => {
 
     aplicativo = new Aplicativo();
     aplicativo.adicionarDesafio("Converse com uma amizade", 10, "diario");
-    
+
     beforeEach(() => {
         usuario = new Usuario("Stella Luna");
     });
@@ -15,6 +15,10 @@ describe("Testes para a classe Usuario", () => {
     test("Deve adicionar pontos ao usuário", () => {
         usuario.ganharPontos(100);
         expect(usuario.pontos).toBe(100);
+    });
+
+    test("Deve criar uma instância de Usuario", () => {
+        expect(usuario).toBeInstanceOf(Usuario);
     });
 
     test("Deve atualizar a lista de desafios do usuário", () => {
@@ -32,5 +36,6 @@ describe("Testes para a classe Usuario", () => {
         expect(usuario.desafiosConcluidos.length).toBe(1);
         expect(usuario.desafiosConcluidos).toContain(desafio);
     });
+
 
 });
