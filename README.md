@@ -50,4 +50,4 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 ## Testes
 
-<h1 align="center"> <img src="./.github/testes.png" width="900px" alt="uml"> </h1>
+<h1 align="center"> <img src="./.github/testes.png" width="900px" alt="testes"> </h1>
