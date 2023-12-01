@@ -18,7 +18,6 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 - [Problema](#problema)
 - [Solução](#solução)
 - [UML](#uml)
-- [Funcionalidades](#funcionalidades)
 - [Testes](#testes)
 - [Tecnologias](#tecnologias)
   - [Dependência do Desenvolvimento](#dependência-do-desenvolvimento)
@@ -39,8 +38,16 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 <p align="justify"> Com base no problema exposto, a solução consiste em um aplicativo que utiliza princípios da Programação Orientada a Objetos (POO) para criar uma experiência interativa. Os usuários podem participar de desafios diários, semanais e mensais projetados para expô-los a situações sociais progressivamente desafiadoras. A aplicação recompensa os usuários com pontos, medalhas e feedback positivo, incentivando a continuidade da participação e a superação gradual da fobia.</p>
 
+<p align="justify"> A estrutura do projeto inclui as classes Usuario, Desafio, Medalha, Feedback, Aviso, Aplicativo, Terapeuta e RelatorioProgresso, todas interagindo harmoniosamente para criar uma experiência abrangente e personalizada.</p>
+
 ---
 
 ## UML
 
 <h1 align="center"> <img src="./.github/uml.png" width="900px" alt="uml"> </h1>
+
+---
+
+## Testes
+
+<h1 align="center"> <img src="./.github/testes.png" width="900px" alt="uml"> </h1>
