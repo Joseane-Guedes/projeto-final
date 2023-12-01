@@ -20,7 +20,6 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 - [UML](#uml)
 - [Testes](#testes)
 - [Tecnologias](#tecnologias)
-  - [Dependência do Desenvolvimento](#dependência-do-desenvolvimento)
 - [Instalação](#instalação)
 - [Autoras](#autora)
 
@@ -51,3 +50,11 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 ## Testes
 
 <h1 align="center"> <img src="./.github/testes-jest.png" width="900px" alt="testes"> </h1>
+
+---
+
+## Tecnologias
+
+- [Jest](https://jestjs.io/pt-BR/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Visual Studio Code](https://code.visualstudio.com/)
