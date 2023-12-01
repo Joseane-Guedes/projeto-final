@@ -7,9 +7,9 @@
 📝 **Descrição do projeto**
 
 <p align="justify"> 
-O Socialize é um projeto desenvolvido como parte do curso de imersão em programação JavaScript da Reprograma, abrangendo os princípios da Programação Orientada a Objetos (POO) e incorporando boas práticas de desenvolvimento, incluindo cobertura de testes unitários em Jest. Esta iniciativa inovadora surge como resposta ao desafiador panorama da fobia social, um transtorno que impacta significativamente milhões de pessoas.</p>
+O Socialize é um projeto desenvolvido como parte do curso de imersão em programação JavaScript da Reprograma abrangendo os princípios da Programação Orientada a Objetos (POO) e incorporando boas práticas de desenvolvimento, incluindo cobertura de testes unitários em Jest. O projeto é uma iniciativa que surge como resposta ao desafiador panorama da fobia social, um transtorno que impacta significativamente milhões de pessoas.</p>
 
-<p align="justify"> O projeto propõe um ambiente virtual gamificado com uma abordagem estruturada para auxiliar na superação gradual desse desafio. Buscamos proporcionar interações sociais personalizadas, incentivando uma jornada positiva em direção à superação dos desafios associados a esse transtorno.</p>
+<p align="justify"> O projeto propõe um ambiente virtual gamificado com uma abordagem estruturada para auxiliar na superação gradual dos problemas relacionados à fobia social. Buscamos proporcionar interações sociais personalizadas, incentivando uma jornada positiva em direção à superação dos desafios associados a esse transtorno.</p>
 
 ---
 
@@ -31,7 +31,7 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 <p align="justify"> As estatísticas da Organização Mundial da Saúde (OMS) indicam que o Brasil é o país mais ansioso e estressado da América Latina, com a fobia social afetando cerca de 13% da população, totalizando 26 milhões de pessoas. Segundo o jornal brasileiro de psiquiatria, o transtorno de ansiedade social (TAS), ou fobia social, é essencialmente o “medo ou ansiedade acentuados ou intensos de situações sociais nas quais o indivíduo pode ser avaliado pelos outros”. É insistentemente confundido com timidez ou com outros transtornos de ansiedade. Apesar disso, apresenta uma distribuição epidemiológica relevante nas populações ocidentais e um quadro de desenvolvimento persistente durante a juventude, podendo associar-se a outros transtornos de ansiedade.</p>
 
-<p align="justify"> Segundo um artigo publicado na Revista Brasileira de Psiquiatria de 2008, pessoas com TAS comumente desejam evitar situações sociais que os possam expor, superdimensionando situações por meio da ansiedade e/ou do medo. Quando ocorre, ou na iminência de ocorrer, experimentam sintomas físicos e/ou emocionais, como sudorese e dificuldade de concentração. A evitação costuma estar relacionada à possibilidade de receberem atenção, se exporem ou serem avaliados. Costumam apresentar baixa autoestima e alta autocrítica. O TAS costuma iniciar na infância até a adolescência, não sendo comum o seu surgimento após a juventude. Além disso, costuma afetar mais as mulheres e pode ser mais severo nesse grupo.</p>
+<p align="justify"> Segundo um artigo publicado na Revista Brasileira de Psiquiatria de 2008, pessoas com TAS comumente desejam evitar situações sociais que os possam expor, superdimensionando situações por meio da ansiedade e/ou do medo. Quando ocorre, ou na iminência de ocorrer, experimentam sintomas físicos e/ou emocionais, como sudorese e dificuldade de concentração. A evitação costuma estar relacionada à possibilidade de receberem atenção, se exporem ou serem avaliados. Costumam apresentar baixa autoestima e alta autocrítica. Além disso, costuma afetar mais as mulheres e pode ser mais severo nesse grupo.</p>
 
 ---
 
@@ -39,10 +39,8 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 <p align="justify"> Com base no problema exposto, a solução consiste em um aplicativo que utiliza princípios da Programação Orientada a Objetos (POO) para criar uma experiência interativa. Os usuários podem participar de desafios diários, semanais e mensais projetados para expô-los a situações sociais progressivamente desafiadoras. A aplicação recompensa os usuários com pontos, medalhas e feedback positivo, incentivando a continuidade da participação e a superação gradual da fobia.</p>
 
-<p align="justify"> A estrutura do projeto inclui as classes Usuario, Desafio, Medalha, Feedback, Aviso, Aplicativo, Terapeuta e RelatorioProgresso, todas interagindo harmoniosamente para criar uma experiência abrangente e personalizada.</p>
-
 ---
 
 ## UML
 
-<img src="./.github/uml.png" width="900px" alt="uml">
+<img src="./.github/uml.png" width="900px" alt="uml"> </h1>
