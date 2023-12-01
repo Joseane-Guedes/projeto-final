@@ -1,4 +1,4 @@
-<h1 align="center">  <img src="./.github/reprograma.png" width="800px" alt="Reprograma logo"> </h1>
+<img src="./.github/reprograma.png" width="800px" alt="Reprograma logo">
 
 # Imersão JavaScript - Projeto Final
 
@@ -45,4 +45,4 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 ## UML
 
-<h1 align="center">  <img src="./.github/uml.png" width="900px" alt="uml"> </h1>
+<img src="./.github/uml.png" width="900px" alt="uml">
