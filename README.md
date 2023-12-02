@@ -44,7 +44,7 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 ## UML
 
-<h1 align="center"> <img src="./.github/uml.png" width="900px" alt="uml"> </h1>
+<h1 align="center"> <img src="./.github/diagrama.png" width="900px" alt="uml"> </h1>
 
 ---
 
