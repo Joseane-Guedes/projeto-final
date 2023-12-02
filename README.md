@@ -88,3 +88,7 @@ Para rodar os testes, rode o seguinte comando
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+---
+
+Feito com 💜 por [ Stella Luna ](https://www.linkedin.com/in/stellalunasousa/) e [ Joseane Guedes ](https://www.linkedin.com/in/joseane-guedes/)
