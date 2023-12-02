@@ -23,29 +23,27 @@ class Usuario {
 
     atualizarDesafios() {
         //Lógica pra checar se já fazem 24 horas que os desafios diarios foram atualizados
-        this.desafios.diarios = this.gerarDesafios(3, "diario");
+        this.desafios.diarios = this.sortearDesafios(3, "diario");
         
         //Lógica pra checar se já fazem 7 dias que os desafios semanais foram atualizados
-        this.desafios.semanais = this.gerarDesafios(3, "semanal");
+        this.desafios.semanais = this.sortearDesafios(3, "semanal");
 
         //Lógica pra checar se já fazem 30 dias que os desafios mensais foram atualizados
-        this.desafios.mensais = this.gerarDesafios(3, "mensal");
+        this.desafios.mensais = this.sortearDesafios(3, "mensal");
     }
 
-    gerarDesafios(quantidade, categoria) {
+    sortearDesafios(quantidade, categoria) {
         let desafiosPossiveis = Aplicativo.desafios.filter(desafio => desafio.categoria === categoria);
-        let desafiosSelecionados = [];
+        let desafiosSorteados = [];
 
         for(let index = 0; index < quantidade; index++) {
             if(desafiosPossiveis.length === 0) break;
             const indexAleatorio = Math.floor(Math.random() * desafiosPossiveis.length);
-            const desafioSelecionado = desafiosPossiveis[indexAleatorio];
-            desafiosSelecionados.push(desafioSelecionado);
+            const desafioSorteado = desafiosPossiveis[indexAleatorio];
+            desafiosSorteados.push(desafioSorteado);
             desafiosPossiveis.splice(indexAleatorio, 1);
-            
         }
-
-        return desafiosSelecionados;
+        return desafiosSorteados;
     }
 }
 
