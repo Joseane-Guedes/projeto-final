@@ -18,9 +18,10 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 - [Problema](#problema)
 - [Solução](#solução)
 - [UML](#uml)
+- [Implementação Futura](#Implementação)
+- [Rodando os testes](#Rodando)
 - [Testes](#testes)
 - [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
 - [Autoras](#autora)
 
 ---
@@ -47,7 +48,25 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 ---
 
+## Implementação futura
+
+<p align="justify"> Planejamos desenvolver um front-end intuitivo e responsivo, um servidor robusto e confiável, integrar um banco de dados dinâmico e implementar um sistema de autenticação seguro. Adicionalmente, teremos como objetivo implementar mais classes, como por exemplo, classe de feedback, sistema de avisos e promover interações sociais e colaborativas entre usuários. Prevemos a inclusão de um relatório de progresso detalhado, oferecendo insights sobre o desenvolvimento pessoal dos usuários. Estas são algumas das funcionalidades planejadas, reforçando nosso compromisso com a evolução constante do Socialize.</p>
+
+---
+
+## Rodando os testes
+
+Para rodar os testes, rode o seguinte comando
+
+```bash
+  npm test
+```
+
+---
+
 ## Testes
+
+<p align="justify"> Os testes unitários em Jest atingiram uma cobertura total de 100% para as funcionalidades do usuário e do aplicativo. Cada aspecto do código foi minuciosamente testado, garantindo não apenas a correção, mas também a confiabilidade de todas as operações.</p>
 
 <h1 align="center"> <img src="./.github/testes-jest.png" width="900px" alt="testes"> </h1>
 
@@ -58,3 +77,14 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 - [Jest](https://jestjs.io/pt-BR/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Visual Studio Code](https://code.visualstudio.com/)
+
+---
+
+## Autoras
+
+- [@Joseane-Guedes](https://github.com/Joseane-Guedes)
+- [@StellaLunaSousa](https://github.com/StellaLunaSousa)
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
