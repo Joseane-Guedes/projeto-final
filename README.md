@@ -59,11 +59,11 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 Para rodar os testes, rode os seguintes comandos:
 
 ```bash
-  npm install --save-dev jest
+npm install --save-dev jest
 ```
 
 ```bash
-  npm test
+npm test --coverage
 ```
 
 ---
@@ -81,6 +81,7 @@ Para rodar os testes, rode os seguintes comandos:
 - [Jest](https://jestjs.io/pt-BR/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Github](https://github.com/)
 
 ---
 
