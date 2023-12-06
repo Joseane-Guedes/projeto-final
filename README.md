@@ -32,6 +32,8 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 <p align="justify"> Segundo um artigo publicado na Revista Brasileira de Psiquiatria de 2008, pessoas com TAS comumente desejam evitar situações sociais que os possam expor, superdimensionando situações por meio da ansiedade e/ou do medo. Quando ocorre, ou na iminência de ocorrer, experimentam sintomas físicos e/ou emocionais, como sudorese e dificuldade de concentração. A evitação costuma estar relacionada à possibilidade de receberem atenção, se exporem ou serem avaliados. Costumam apresentar baixa autoestima e alta autocrítica. Além disso, costuma afetar mais as mulheres e pode ser mais severo nesse grupo.</p>
 
+[![Watch the video](https://img.youtube.com/vi/Tmruidle3F4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tmruidle3F4)
+
 ---
 
 ## Solução
