@@ -63,6 +63,10 @@ npm install --save-dev jest
 ```
 
 ```bash
+npm test
+```
+
+```bash
 npm test --coverage
 ```
 
