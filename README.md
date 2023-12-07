@@ -30,7 +30,9 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 <p align="justify"> As estatísticas da Organização Mundial da Saúde (OMS) indicam que o Brasil é o país mais ansioso e estressado da América Latina, com a fobia social afetando cerca de 13% da população, totalizando 26 milhões de pessoas. Segundo o jornal brasileiro de psiquiatria, o transtorno de ansiedade social (TAS), ou fobia social, é essencialmente o “medo ou ansiedade acentuados ou intensos de situações sociais nas quais o indivíduo pode ser avaliado pelos outros”. É insistentemente confundido com timidez ou com outros transtornos de ansiedade. Apesar disso, apresenta uma distribuição epidemiológica relevante nas populações ocidentais e um quadro de desenvolvimento persistente durante a juventude, podendo associar-se a outros transtornos de ansiedade.</p>
 
-<p align="justify"> Segundo um artigo publicado na Revista Brasileira de Psiquiatria de 2008, pessoas com TAS comumente desejam evitar situações sociais que os possam expor, superdimensionando situações por meio da ansiedade e/ou do medo. Quando ocorre, ou na iminência de ocorrer, experimentam sintomas físicos e/ou emocionais, como sudorese e dificuldade de concentração. A evitação costuma estar relacionada à possibilidade de receberem atenção, se exporem ou serem avaliados. Costumam apresentar baixa autoestima e alta autocrítica. Além disso, costuma afetar mais as mulheres e pode ser mais severo nesse grupo.</p>
+<p align="justify"> Segundo um artigo publicado na Revista Brasileira de Psiquiatria de 2008, pessoas com TAS comumente desejam evitar situações sociais que os possam expor, superdimensionando situações por meio da ansiedade e/ou do medo. Quando ocorre, ou na iminência de ocorrer, experimentam sintomas físicos e/ou emocionais, como sudorese e dificuldade de concentração. A evitação costuma estar relacionada à possibilidade de receberem atenção, se exporem ou serem avaliados. Costumam apresentar baixa autoestima e alta autocrítica. Além disso, costuma afetar mais as mulheres e pode ser mais severo nesse grupo. Para saber mais, clique no vídeo abaixo: </p>
+
+[![Watch the video](https://img.youtube.com/vi/Tmruidle3F4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tmruidle3F4)
 
 ---
 
@@ -44,7 +46,7 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 ## UML
 
-<h1 align="center"> <img src="./.github/uml.png" width="900px" alt="uml"> </h1>
+<h1 align="center"> <img src="./.github/diagrama.png" width="900px" alt="uml"> </h1>
 
 ---
 
@@ -56,10 +58,18 @@ O Socialize é um projeto desenvolvido como parte do curso de imersão em progra
 
 ## Rodando os testes
 
-Para rodar os testes, rode o seguinte comando
+Para rodar os testes, rode os seguintes comandos:
 
 ```bash
-  npm test
+npm install --save-dev jest
+```
+
+```bash
+npm test
+```
+
+```bash
+npm test --coverage
 ```
 
 ---
@@ -77,6 +87,7 @@ Para rodar os testes, rode o seguinte comando
 - [Jest](https://jestjs.io/pt-BR/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Github](https://github.com/)
 
 ---
 
